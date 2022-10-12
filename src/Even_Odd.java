@@ -1,3 +1,5 @@
+//Que:1. Input any two number and find out its odd or even use turnery operator (? :)
+
 import java.util.*;
 public class Even_Odd {
     public static void main(String[] args) {
@@ -8,3 +10,8 @@ public class Even_Odd {
         System.out.println(msg);
     }
 }
+
+//Out Put For Example:-
+//        Enter any number:-
+//        345
+//        The number 345 is Odd

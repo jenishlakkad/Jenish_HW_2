@@ -1,3 +1,5 @@
+//Que:2. WAP to input any year like 1989 and find out if it is leap year
+
 import java.util.*;
 
 public class Leap_Year
@@ -16,3 +18,7 @@ public class Leap_Year
         }
     }
 }
+//Out Put For Example:-
+//        Enter Year:-
+//        354
+//        354 is a not Leap Year
